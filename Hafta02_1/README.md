@@ -4,9 +4,9 @@
 
 | Dosya | İçerik |
 | --- | --- |
-| `Linux_Temelleri_Hafta02_1_Sunum.pptx` | Paylaşılan düzenlenebilir sunum |
-| `Linux_Temelleri_Hafta02_1_Sunum.pdf` | Paylaşılan özgün PDF; 75 sayfa, görseller için esas alınan sürüm |
-| `Linux_Temelleri_Hafta02_1_Ogrenci_Notlari.html` | Slayt görselleri, öğrenciye yönelik konu anlatımı, hedefler ve tekrar |
+| [Linux_Temelleri_Hafta02_1_Sunum.pptx](Linux_Temelleri_Hafta02_1_Sunum.pptx) | Paylaşılan düzenlenebilir sunum |
+| [Linux_Temelleri_Hafta02_1_Sunum.pdf](Linux_Temelleri_Hafta02_1_Sunum.pdf) | Paylaşılan özgün PDF; 75 sayfa, görseller için esas alınan sürüm |
+| [Linux_Temelleri_Hafta02_1_Ogrenci_Notlari.html](Linux_Temelleri_Hafta02_1_Ogrenci_Notlari.html) | Slayt görselleri, öğrenciye yönelik konu anlatımı, hedefler ve tekrar |
 
 HTML dosyası çevrimdışı açılır. Önce bölüm başlıklarını okuyun, sonra slayt ve altındaki açıklamaları birlikte inceleyin. Son bölümdeki salt okunur Linux komutlarıyla kavramları kendi test ortamınızda gözlemleyin.
 
