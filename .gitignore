@@ -1,0 +1,7 @@
+# Öğretim elemanına özel içerikler bu depoya eklenmemelidir.
+*Ogretim_Elemani*
+*Soru_Bankasi*
+*Cevap_Anahtari*
+private/
+private_exam/
+deliverables/
