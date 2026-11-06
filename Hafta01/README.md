@@ -6,9 +6,9 @@ Bu paket, haftanın **77 slaytlık özgün sunumunu** ve her slaydın altında �
 
 | Dosya | Kullanım |
 | --- | --- |
-| `Linux_Temelleri_Hafta01_Sunum.pptx` | Düzenlenebilir özgün sunum |
-| `Linux_Temelleri_Hafta01_Sunum.pdf` | Sunumun PDF kopyası |
-| `Linux_Temelleri_Hafta01_Ogrenci_Notlari.html` | Slayt görselleri, öğrenci anlatımı, çıktılar ve mini uygulama; çevrimdışı açılır |
+| [Linux_Temelleri_Hafta01_Sunum.pptx](Linux_Temelleri_Hafta01_Sunum.pptx) | Düzenlenebilir özgün sunum |
+| [Linux_Temelleri_Hafta01_Sunum.pdf](Linux_Temelleri_Hafta01_Sunum.pdf) | Sunumun PDF kopyası |
+| [Linux_Temelleri_Hafta01_Ogrenci_Notlari.html](Linux_Temelleri_Hafta01_Ogrenci_Notlari.html) | Slayt görselleri, öğrenci anlatımı, çıktılar ve mini uygulama; çevrimdışı açılır |
 
 ### Çalışma sırası
 
