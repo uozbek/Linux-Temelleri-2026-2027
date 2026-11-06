@@ -4,9 +4,9 @@
 
 | Dosya | İçerik |
 | --- | --- |
-| `Linux_Temelleri_Hafta03_Sunum.pdf` | Paylaşılan özgün PDF sunumu, 46 sayfa |
-| `Linux_Temelleri_Hafta03_Sunum.pptx` | Aynı haftanın düzenlenebilir sunumu, 46 slayt |
-| `Linux_Temelleri_Hafta03_Ogrenci_Notlari.html` | Her PDF sayfasının görseli, altındaki öğrenciye yönelik açıklaması ve öz değerlendirme |
+| [Linux_Temelleri_Hafta03_Sunum.pdf](Linux_Temelleri_Hafta03_Sunum.pdf) | Paylaşılan özgün PDF sunumu, 46 sayfa |
+| [Linux_Temelleri_Hafta03_Sunum.pptx](Linux_Temelleri_Hafta03_Sunum.pptx) | Aynı haftanın düzenlenebilir sunumu, 46 slayt |
+| [Linux_Temelleri_Hafta03_Ogrenci_Notlari.html](Linux_Temelleri_Hafta03_Ogrenci_Notlari.html) | Her PDF sayfasının görseli, altındaki öğrenciye yönelik açıklaması ve öz değerlendirme |
 
 HTML dosyası çevrimdışı açılır. Uygulama bölümü 24. sayfada başlar; komutları proje kökünde, sırayla çalıştırın. İndirme ve paket kurulumu için ağ gerekir. `fdisk`, `mkfs.ext4` ve `/etc/fstab` değişiklikleri yalnızca kavramsal anlatımdadır; laboratuvar adımı değildir. Çıktılar işletim sistemi ve paket sürümüne göre farklılaşabilir.
 
